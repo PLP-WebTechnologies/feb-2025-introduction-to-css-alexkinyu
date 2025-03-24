@@ -1,0 +1,8 @@
+body {
+    background-image: url(https://images.pexels.com/photos/1903611/pexels-photo-1903611.jpeg?auto=compress&cs=tinysrgb&w=300);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: auto;
+    background-image: cover; background-color: rgba(225, 231, 231, 0.171);
+    text-emphasis-color: red ;
+}
